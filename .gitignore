@@ -1,0 +1,8 @@
+syntax: glob
+
+*.swp
+gtkvlc.py
+gtkvlc.py
+qtvlc.py
+vlc.py
+vlc.pyc
